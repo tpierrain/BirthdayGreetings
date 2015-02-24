@@ -29,7 +29,8 @@ The greetings email contains the following text:
 	Subject: Happy birthday!
 
 	Happy birthday, dear John!
-	with the first name of the employee substituted for “John”
+
+with the first name of the employee substituted for “John”
 
 The program should be invoked by a main program like this one:
 
